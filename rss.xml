@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Gold Nugget Pictures]]></title>
-        <description><![CDATA[Gold Nugget Pictures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Pictures of Gold Nuggets from around the world]]></title>
+        <description><![CDATA[Pictures of Gold Nuggets from around the world]]></description>
+        <link>https://thegrid.ai/gold-nugget-pictures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 22:27:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 22:34:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gold-nugget-pictures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Australian Gold Nuggets]]></title>
             <description><![CDATA[<article><h1>Australian Gold Nuggets</h1><p>Some Australian Gold Nuggets</p></article>]]></description>
-            <link>undefinedaustralian-gold-nuggets/index.html</link>
+            <link>https://thegrid.ai/gold-nugget-pictures/australian-gold-nuggets/index.html</link>
             <guid isPermaLink="false">e6eefac1-26b3-41ff-a8b8-d5ad0f77f5de</guid>
-            <pubDate>Tue, 22 Dec 2015 22:27:38 GMT</pubDate>
+            <pubDate>Tue, 22 Dec 2015 22:34:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
